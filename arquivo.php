@@ -5,6 +5,8 @@
 	<title>ola</title>
 </head>
 <body>
-	
+	<?php
+	info.php();
+	?>
 </body>
 </html>
