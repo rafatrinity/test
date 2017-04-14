@@ -7,6 +7,7 @@
 <body>
 	<?php
 	info.php();
+	echo('ola');
 	?>
 </body>
 </html>
